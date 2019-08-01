@@ -1,0 +1,19 @@
+body{
+    background-color: #EEE2DC;
+    color: white;
+}
+
+div.int_div{
+    margin: 20px auto;
+    background-color: #123C69;
+    border: 0;
+    padding: 10px 20px;
+}
+
+.page_title{
+    color: #123C69;
+}
+
+h1, h2 {
+    text-align: center;
+}
